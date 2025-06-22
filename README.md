@@ -25,16 +25,13 @@
 - 🛠️ Building production-grade ML apps, Retrieval-Augmented-Generation pipelines & full-stack products  
 - 🌏 Based in Kolkata, India • Open to collaboration, learning & innovation
 
-- <h2 align="center"><span style="color:#FF1493;font-family:Georgia;">🕹️ Explore My Portfolio</span></h2>
-
-<p align="center">
-  <a href="https://debopriya.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Click+to+Launch+Portfolio+🎮;Built+with+React+and+deployed+on+Vercel!" alt="Typing Animation Portfolio" />
-  </a><br>
-  <a href="https://debopriya.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🟢%20PLAY%20PORTFOLIO-Click%20Here-informational?style=for-the-badge&logo=vercel&logoColor=white&color=ff1493" />
-  </a>
-</p>
+🌐 **Portfolio**:  
+  <p align="center">
+    <a href="https://debopriya.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF1493?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
+    </a><br>
+    <em style="color:gray;">(Built using modern React + responsive design)</em>
+  </p>
 
 ---
 
