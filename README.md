@@ -129,6 +129,11 @@
 </p>
 
 ---
+<h2 align="center"><span style="color:#FF1493;font-family:Georgia;">📊 Languages Used</span></h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdebopriya&layout=compact&theme=radical&langs_count=10" />
+</p>
 
 
 <p align="center">
