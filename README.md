@@ -1,6 +1,6 @@
 <!-- ────────────── HERO IMAGE ────────────── -->
 <p align="center">
- <img src="https://w7.pngwing.com/pngs/446/593/png-transparent-girl-wearing-eyeglasses-art-cartoon-drawing-illustration-cartoon-girl-cartoon-character-child-face-thumbnail.png"
+ <img src="https://img.pikbest.com/png-images/qiantu/hand-drawn-cartoon-cute-girl-wearing-glasses-red-sweater-character-element_2548886.png!sw800"
        alt="Cartoon girl wearing spectacles" width="300" />
 
 </p>
