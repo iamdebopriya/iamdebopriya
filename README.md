@@ -150,14 +150,6 @@
        alt="Contribution snake animation" />
 </p>
 
-<h2 align="center"><span style="color:#FF1493;font-family:Georgia;">🧩 GitHub Activity Tetris</span></h2>
-
-<p align="center">
-  <img src="https://github.com/aleen42/PersonalWebsite/raw/master/src/components/GitHubCalendar/github.gif"
-       alt="GitHub contribution Tetris"
-       width="600" />
-</p>
-
 
 
 ---
