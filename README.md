@@ -1,9 +1,7 @@
 <!-- ────────────── HERO IMAGE ────────────── -->
 <p align="center">
- <img src="https://icon2.cleanpng.com/lnd/20240918/jb/cb1f9dd6ac721d50d4fe21c9668ba7.webp"
-     alt="Cartoon girl with transparent background"
-     width="300"
-     style="background: transparent;" />
+ <img src="https://img.pikbest.com/png-images/qiantu/hand-drawn-cartoon-cute-girl-wearing-glasses-red-sweater-character-element_2548886.png!sw800"
+       alt="Cartoon girl wearing spectacles" width="300" />
 
 </p>
 
