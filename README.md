@@ -38,6 +38,15 @@
 
 ---
 
+
+
+<h2 align="center"><span style="color:#FF1493;font-family:Georgia;"> Tech Stack</span></h2>
+
+<p align="center">
+  <img src="https://github.com/rahulbanerjee26/rahulbanerjee26/blob/master/assets/techstack.svg" width="90%" alt="Tech Parade">
+</p>
+
+
 <h2 align="center"><span style="color:#FF1493;font-family:Georgia;">🛠 Skill&nbsp;Highlights</span></h2>
 
 | Category | Technologies |
@@ -92,10 +101,15 @@
 
 ---
 
-<h2 align="center"><span style="color:#FF1493;font-family:Georgia;">🎞️ Coding&nbsp;Vibes</span></h2>
+<h2 align="center"><span style="color:#FF1493;font-family:Georgia;">Coding&nbsp;Vibes</span></h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
        alt="Girl coding with spectacles" width="350" />
 </p>
+
+<h2 align="center"><span style="color:#FF1493;font-family:Georgia;">💡 Personal&nbsp;Quote</span></h2>
+
+<p align="center"><em>"Code with purpose, not just syntax."</em> – Debopriya Lahiri</p>
+
 
