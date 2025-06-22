@@ -150,6 +150,14 @@
        alt="Contribution snake animation" />
 </p>
 
+<h2 align="center"><span style="color:#FF1493;font-family:Georgia;">♟️ GitHub Chess Mode</span></h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62894917/210125516-e4d0fd38-6f79-41b4-bd4c-6d02e84f5b9d.gif"
+       width="600" alt="GitHub Chess Contribution" />
+</p>
+
+
 ---
 
 <h2 align="center"><span style="color:#FF1493;font-family:Georgia;">Coding&nbsp;Vibes</span></h2>
