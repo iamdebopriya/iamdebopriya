@@ -23,7 +23,15 @@
   at **Techno Main Salt Lake** • GPA **8.9**  
 - 💼 **SDE Intern @ Techno Billion AI** (Mar 2025 – Present) – Prisma + PostgreSQL back-end, React front-end, serving 15 K+ users  
 - 🛠️ Building production-grade ML apps, Retrieval-Augmented-Generation pipelines & full-stack products  
-- 🌏 Based in Kolkata, India • Open to collaboration, learning & innovation  
+- 🌏 Based in Kolkata, India • Open to collaboration, learning & innovation
+
+- 🌐 **Portfolio**:  
+  <p align="center">
+    <a href="https://debopriya.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF1493?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
+    </a><br>
+    <em style="color:gray;">(Built using modern React + responsive design)</em>
+  </p>
 
 ---
 
